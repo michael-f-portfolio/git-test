@@ -1,1 +1,2 @@
 some really important text is here.
+change to confirm vscode is git commit message editor.
